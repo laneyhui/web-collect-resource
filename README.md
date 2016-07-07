@@ -1,34 +1,4 @@
 前端收集
-=================
-
-在前端路上摸索前行，在这里分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者。欢迎更新。
-
-自己 RSS 长期订阅了一些IT 和技术相关博客，这里是我Feedly 输出的opml，可直接导入一些RSS 阅读器:
-https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
-
-====
-
-
-####聚合&&周报订阅
-|名称 |订阅地址 | 介绍 |
-| ----- | ----- | ------ |
-|Html5 Weekly|http://html5weekly.com/| Html 技术类|
-|CSS Weekly|http://css-weekly.com/| |
-|Javascript Weekly|http://javascriptweekly.com/|JS相关，同样有 html,css 和工具相关|
-|Web Design Weekly| http://web-design-weekly.com/ | 设计、技术、技巧、工具聚合|
-|UX Weekly|http://uxwkly.com/|用户体验、网页设计推送|
-|Web Tools Weekly|http://webtoolsweekly.com/|Js，工具推送|
-|RESPONSIVE DESIGN NEWSLETTER|http://responsivedesignweekly.com/|每周推送一次响应式设计相关|
-|Tutorialzine|http://tutorialzine.com/|精品教程和资源推送|
-|Sidebar|http://sidebar.io/|每天、每半周、每周推送5条设计相关|
-|The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
-|Design News|https://news.layervault.com/|F2类资讯聚合|
-|HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
-|中文推送|||
-|SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
-|FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
-|EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
-
 
 
 ####专业博客
@@ -47,8 +17,6 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
 |[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
 |[Be For Web - 为网而生 - 原创译文博客](http://beforweb.com/)|★★★★☆|★★★★☆|[@C7210](http://weibo.com/c7210)|关注移动应用及互联网产品、用户体验设计、前端开发|
-
-
 
 
 ######国外博客
@@ -166,7 +134,25 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |----|----|----|----|----|
 |JavaScript秘密花园|http://bonsaiden.github.io/JavaScript-Garden/zh/|伊沃·韦特泽尔&张易江|[三生石上](http://sanshi.me/)|完整书籍，界面美观，有详细demo|
 
-##关于
-======
 
-本 repo 会 不断更新，感谢推荐和分享新资源的朋友。
+####聚合&&周报订阅
+|名称 |订阅地址 | 介绍 |
+| ----- | ----- | ------ |
+|Html5 Weekly|http://html5weekly.com/| Html 技术类|
+|CSS Weekly|http://css-weekly.com/| |
+|Javascript Weekly|http://javascriptweekly.com/|JS相关，同样有 html,css 和工具相关|
+|Web Design Weekly| http://web-design-weekly.com/ | 设计、技术、技巧、工具聚合|
+|UX Weekly|http://uxwkly.com/|用户体验、网页设计推送|
+|Web Tools Weekly|http://webtoolsweekly.com/|Js，工具推送|
+|RESPONSIVE DESIGN NEWSLETTER|http://responsivedesignweekly.com/|每周推送一次响应式设计相关|
+|Tutorialzine|http://tutorialzine.com/|精品教程和资源推送|
+|Sidebar|http://sidebar.io/|每天、每半周、每周推送5条设计相关|
+|The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
+|Design News|https://news.layervault.com/|F2类资讯聚合|
+|HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
+|中文推送|||
+|SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
+|FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
+|EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
+
+
